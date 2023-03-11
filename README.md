@@ -1,5 +1,5 @@
 # IMath
 ## How to use
-> IMath.ConvertViaMath();
+> IMath.ConvertViaMath(bytes);
 
 ![alt text](https://cdn.discordapp.com/attachments/1072324854856032396/1083936776562937856/image.png)
